@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GithubUserRev6</string>
+
+    <string name="main_title">Github User</string>
+    <string name="detail_title">Detail User</string>
+
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="company">Company</string>
+
+    <string name="hint_text">Input User name here . . .</string>
+    <string name="guide">Please Search</string>
+    <string name="nobody">Not Found User</string>
+    <string name="no_repos">Not Found Repository</string>
+    <string name="exit">Press back again to exit application</string>
+
+</resources>
